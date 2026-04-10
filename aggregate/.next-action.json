@@ -2,7 +2,7 @@
   "next_action": "combine",
   "phase_completed": "enrich",
   "commit_sha": "6fc29774a008f41d96b34523d6aae543ecb46cd1",
-  "ts": "2026-04-10T09:36:32Z",
+  "ts": "2026-04-10T09:41:31Z",
   "call_sites": 455,
   "call_targets_resolved": 62,
   "import_targets_resolved": 19
